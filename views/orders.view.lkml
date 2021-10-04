@@ -1,5 +1,5 @@
 view: orders {
-  sql_table_name: `sandbox_looker.orders`
+  sql_table_name: "PUBLIC"."ORDERS"
     ;;
   drill_fields: [id]
 
